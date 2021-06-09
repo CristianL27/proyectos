@@ -6,4 +6,4 @@ Problema B:
     - Pasados 30 dias mostrar su situacion final del alumno
     - Maximo de 10% de ausencias
 Problema C:
-    - crear calculadora que sume, reste, multiplique y divida.
+    - crear calculadora que sume, reste, divida y multiplique.
