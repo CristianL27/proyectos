@@ -1,4 +1,4 @@
-let operaciones = parseInt(prompt("ingrese el numero relacionado con su operacion: 1)Suma, 2)Resta, 3)Multiplicacion, 4)Divicion"))
+let operaciones = parseInt(prompt("ingrese el número relacionado con su operación: 1: Suma, 2: Resta, 3: Multiplicación, 4: Divición"))
 
 if (operaciones < 1 || operaciones > 4 ){
   alert('Error el número seleccionado no corresponde con una operación válida')
