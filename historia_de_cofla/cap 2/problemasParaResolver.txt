@@ -1,7 +1,7 @@
 Problema A:(Listo)
     -Dejar pasar solo a los +18,
     -El primero que entre despues de las 2AM, no paga.
-Problema B:
+Problema B:(Resuelto por dalto xd)
     - Crear mini-sistema para registrar Presentes (P) y Ausentes (A)
     - Pasados 30 dias mostrar su situacion final del alumno
     - Maximo de 10% de ausencias
