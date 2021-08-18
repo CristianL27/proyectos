@@ -1,0 +1,10 @@
+> Problema 1: crear un sistema para mostrar las siguientes caracteristicas
+  1) Mostrarle las peculiaridades de los 3 celulares.
+  2) Cada uno debe tener color, peso, resolucion de pantalla, camara y memoria ram.
+  3) Deben poder prender, reiniciar, tomar fotos y grabar.
+
+> Problema 2: 2 celulares de alta gama, pueden hacer todas las  cosas de los celulares del problema 1 pero ademas tambien pueden grabar en camara lenta, posee reconocimiento facial y tiene camara extra.
+
+> Problema 3: crear un sistema para decidir que app descargar, cada app debe de tener:
+  1) cantidad de descargas, peso y puntuacion.
+  2) se deben poder instalar, abrir, cerrar y desinstalar.
