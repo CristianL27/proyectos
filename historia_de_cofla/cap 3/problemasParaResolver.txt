@@ -6,5 +6,5 @@
 > Problema 2: 2 celulares de alta gama, pueden hacer todas las  cosas de los celulares del problema 1 pero ademas tambien pueden grabar en camara lenta, posee reconocimiento facial y tiene camara extra.(Done)
 
 > Problema 3: crear un sistema para decidir que app descargar, cada app debe de tener:
-  1) cantidad de descargas, peso y puntuacion.
-  2) se deben poder instalar, abrir, cerrar y desinstalar.
+  1) cantidad de descargas, peso y puntuacion.(Done)
+  2) se deben poder instalar, abrir, cerrar y desinstalar.(Done)
